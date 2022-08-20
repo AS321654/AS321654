@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 👯 I’m looking to collaborate on **Frontend development projects**
+- 👯 I’m looking forward to collaborate on **Frontend development projects**
 
 - 💬 Ask me about **DS & algo, HTML, CSS, Bootstrap, JavaScript, jQuery**
 
