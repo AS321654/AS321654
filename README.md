@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayushi Shukla</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=as321654&label=Profile%20views&color=0e75b6&style=flat" alt="as321654" /> </p>
 
 - 🌱 I’m currently learning **Backend Development**
-
-- 👯 I’m looking forward to collaborate on **Frontend development projects**
-
-- 💬 Ask me about **DS & algo, HTML, CSS, Bootstrap, JavaScript, jQuery**
 
 - 📫 How to reach me **shuklaayushi321@gmail.com**
 
